@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 DB connection placeholder
+=======
+This is my first note
+>>>>>>> 3dec9509253a7c4395db1ad6aa3da0e3e166ed35
